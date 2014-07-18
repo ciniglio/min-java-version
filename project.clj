@@ -1,4 +1,4 @@
-(defproject min-java-version "0.1.0-SNAPSHOT"
+(defproject min-java-version "0.1.0"
   :description "Leiningen plugin to abort if JDK is below min version"
   :url "http://github.com/ciniglio/min-java-version"
   :license {:name "Eclipse Public License"
